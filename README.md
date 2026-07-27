@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Timur 👋
 
-<!--
-**Timur-Inno/Timur-Inno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second year Computer Science student at Innopolis University.
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- Java
+- Python
+- AI / Machine Learning
+- Git
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Voice Games MVP
+Team software engineering project.
+
+- Role: Developer / Maintainer
+- Repository: https://github.com/VoiceGamesTeam/VoiceGames
+
+## Interests
+- Software Engineering
+- Artificial Intelligence
+- Game Development
